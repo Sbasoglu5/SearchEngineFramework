@@ -1,0 +1,33 @@
+2024-02-02 01:19:15 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:19:17 INFO  Log:12 - End of the test case
+2024-02-02 01:19:21 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:19:36 INFO  Log:12 - End of the test case
+2024-02-02 01:19:40 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:19:41 INFO  Log:15 - I am executing the monkey test assertions here
+2024-02-02 01:19:42 INFO  Log:12 - End of the test case
+2024-02-02 01:19:46 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:19:48 INFO  Log:15 - I am executing the monkey test assertions here
+2024-02-02 01:19:49 INFO  Log:12 - End of the test case
+2024-02-02 01:21:03 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:21:09 INFO  Log:12 - End of the test case
+2024-02-02 01:21:28 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:21:30 INFO  Log:12 - End of the test case
+2024-02-02 01:21:34 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:21:42 INFO  Log:12 - End of the test case
+2024-02-02 01:21:46 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:21:48 INFO  Log:15 - I am executing the monkey test assertions here
+2024-02-02 01:21:48 INFO  Log:12 - End of the test case
+2024-02-02 01:21:52 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:21:53 INFO  Log:15 - I am executing the monkey test assertions here
+2024-02-02 01:21:54 INFO  Log:12 - End of the test case
+2024-02-02 01:25:29 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:25:31 INFO  Log:12 - End of the test case
+2024-02-02 01:25:35 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:25:50 WARN  Log:18 - this step might fail due to loading wait. If it fails, rerun or increase the wait time
+2024-02-02 01:25:50 INFO  Log:12 - End of the test case
+2024-02-02 01:25:54 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:25:56 INFO  Log:15 - I am executing the monkey test assertions here
+2024-02-02 01:25:56 INFO  Log:12 - End of the test case
+2024-02-02 01:26:00 INFO  Log:9 - Beginning of the test case
+2024-02-02 01:26:02 INFO  Log:15 - I am executing the monkey test assertions here
+2024-02-02 01:26:02 INFO  Log:12 - End of the test case
